@@ -10,3 +10,8 @@ Mark holds a Master in Computer Science from Delft University of Technology and 
 <img src="https://raw.githubusercontent.com/markdumay/github-stats/master/generated/languages.svg#gh-dark-mode-only" class="gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/markdumay/github-stats/master/generated/languages.svg#gh-light-mode-only" class="gh-light-mode-only" />
 </a>
+
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
