@@ -5,16 +5,8 @@ Mark Dumay is managing partner and owner of Squadra Analytics, a boutique consul
 Mark holds a Master in Computer Science from Delft University of Technology and is a certified Lean Six Sigma Black Belt. Before his current job, he worked for a software development company, a digital agency and a large international consulting firm.
 
 <a href="https://github.com/markdumay/">
-<img src="https://raw.githubusercontent.com/markdumay/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/markdumay/github-stats/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://raw.githubusercontent.com/markdumay/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/markdumay/github-stats/master/generated/languages.svg#gh-light-mode-only" />
-</a>
-
-<a href="https://github.com/markdumay/">
-![](https://raw.githubusercontent.com/markdumay/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/markdumay/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/markdumay/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/markdumay/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<img src="https://raw.githubusercontent.com/markdumay/github-stats/master/generated/overview.svg#gh-dark-mode-only" class="gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/markdumay/github-stats/master/generated/overview.svg#gh-light-mode-only" class="gh-light-mode-only" />
+<img src="https://raw.githubusercontent.com/markdumay/github-stats/master/generated/languages.svg#gh-dark-mode-only" class="gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/markdumay/github-stats/master/generated/languages.svg#gh-light-mode-only" class="gh-light-mode-only" />
 </a>
